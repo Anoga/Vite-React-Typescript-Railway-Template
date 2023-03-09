@@ -33,7 +33,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <h1>周易64卦</h1>
-        <h1>不诚不占，不义不占，不疑不占</h1>
+        <h2>不诚不占，不义不占，不疑不占</h2>
         <section>
           <div>
             <span>数字1:</span>
